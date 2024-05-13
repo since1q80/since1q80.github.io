@@ -3,11 +3,11 @@
 title: 颜卿
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Qing YAN
 
 # Full name (for SEO)
 first_name: Qing
-last_name: Yan
+last_name: YAN
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: R&D Director-Advanced Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,6 +32,8 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+  - Software Defined Vehicle
+  - Multimodal Interaction
 
 # Education to show in About widget
 education:
