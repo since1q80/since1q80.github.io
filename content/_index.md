@@ -42,4 +42,12 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: >-
+      <script type="module">
+          import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+          Chatbot.init({
+              chatflowid: "2cd0be69-4490-40e9-8d29-674ef1bfc599",
+              apiHost: "https://flowise-1ylf.onrender.com",
+          })
+      </script>
 ---
